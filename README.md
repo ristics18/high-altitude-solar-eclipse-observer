@@ -1,4 +1,3 @@
-# high-altitude-solar-eclipse-observer
-High Altitude Solar Eclipse Observer
+# High Altitude Solar Eclipse Observer
 
-https://sites.google.com/site/solareclipseobserver/
+Project Description: https://sites.google.com/site/solareclipseobserver/
